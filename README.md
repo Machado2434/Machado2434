@@ -1,4 +1,4 @@
-### Boas vindas no meu perfil
+### Boas vindas no meu perfil 🫀
 
 
 **Machado2434/Machado2434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
